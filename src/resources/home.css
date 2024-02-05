@@ -1,0 +1,27 @@
+html{
+    background-color: #2B3035;
+}
+body {
+    background-color: #2B3035;
+}
+.card {
+    margin-left: 1dvw;
+    margin-right: 1dvw;
+}
+.cards{
+    background-image: url('https://img.freepik.com/premium-photo/colorful-abstract-background-black_744040-2283.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.home-cards {
+    margin-top: 5dvh;
+    margin-bottom: 5dvh;
+}
+.home{
+    padding-top: 70dvh;
+    background-image: url('https://wallpapers.com/images/hd/wooden-cottage-sea-high-resolution-d7fahhz6phtkdveh.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
